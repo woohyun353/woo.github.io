@@ -1,0 +1,25 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 검은색 배경 -->
+  <rect width="32" height="32" fill="black"/>
+  
+  <!-- 흰색 몸통 (둥근 형태) -->
+  <ellipse cx="16" cy="20" rx="8" ry="6" fill="white" stroke="black" stroke-width="1.5"/>
+  
+  <!-- 주황색 머리/모자 (돔 형태) -->
+  <ellipse cx="16" cy="14" rx="7" ry="5" fill="#ff6b35" stroke="black" stroke-width="1.5"/>
+  
+  <!-- 검은색 귀/안테나 -->
+  <ellipse cx="13" cy="12" rx="1.5" ry="3" fill="black"/>
+  <ellipse cx="19" cy="12" rx="1.5" ry="3" fill="black"/>
+  
+  <!-- 검은색 눈 -->
+  <circle cx="14" cy="13" r="1" fill="black"/>
+  <circle cx="18" cy="13" r="1" fill="black"/>
+  
+  <!-- 입 (네모난 형태, 분홍색 점) -->
+  <rect x="15" y="16" width="2" height="1.5" fill="black" rx="0.5"/>
+  <circle cx="16" cy="16.75" r="0.5" fill="#ff69b4"/>
+  
+  <!-- 주황색 안테나 끝 -->
+  <circle cx="18" cy="9" r="1" fill="#ff6b35"/>
+</svg> 

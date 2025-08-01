@@ -1,0 +1,16 @@
+{
+  "name": "My Blog",
+  "short_name": "Blog",
+  "description": "A beautiful static blog built with Next.js and Markdown",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+} 
